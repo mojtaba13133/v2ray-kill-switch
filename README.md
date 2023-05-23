@@ -11,7 +11,7 @@ In the following situation, the kill switch does not work properly:
 
 Be sure to run this bash file with root access level or high access level.
 
-sudo bash setup-kill-switch-v2ray.sh
+$ sudo bash setup-kill-switch-v2ray.sh
 
 
 It does the following:
