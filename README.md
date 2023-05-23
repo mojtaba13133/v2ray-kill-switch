@@ -7,7 +7,7 @@ In the following situation, the kill switch works correctly:
 [running proxy.jpg](https://github.com/mojtaba13133/kill-switch-v2ray/blob/7eff6442404e7973464ac747afd2491e3f74719d/image.png)
 
 In the following situation, the kill switch does not work properly:
-stop proxy.jpg
+[stop proxy.jpg](https://github.com/mojtaba13133/kill-switch-v2ray/blob/5348bf520ca6b7ed9eae6198a9d12bec4d062533/stop%20proxy.jpg)
 
 Be sure to run this bash file with root access level or high access level.
 
