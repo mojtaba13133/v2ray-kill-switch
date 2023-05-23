@@ -4,10 +4,10 @@ A bash for kill switch is v2raya program. When the v2raya service is stopped, th
 *** Pay attention to this important point, the kill switch only works properly when v2raya status is on running, and if it is on Ready mode, the kill switch does not actually work properly. ***
 ----------
 In the following situation, the kill switch works correctly:
-![Uploading image.png…]()
-
+running proxy.jpg
 
 In the following situation, the kill switch does not work properly:
+stop proxy.jpg
 
 Be sure to run this bash file with root access level or high access level.
 
