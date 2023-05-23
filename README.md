@@ -1,4 +1,4 @@
-# kill-switch-v2ray
+# v2ray kill switch
 A bash for kill switch is v2raya program. When the v2raya service is stopped, the system traffic is interrupted.
 --------
 *** Pay attention to this important point, the kill switch only works properly when v2raya status is on running, and if it is on Ready mode, the kill switch does not actually work properly. ***
